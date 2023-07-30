@@ -1,5 +1,5 @@
 import React from 'react'
-import "../components/styles/Specials.css"
+import "./styles/Specials.css"
 import SpecialsCard from './SpecialsCard'
 
 const Specials = () => {
